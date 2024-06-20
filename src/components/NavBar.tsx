@@ -5,10 +5,10 @@ export default function NavBar() {
         <nav>
             <ul>
                 <li>
-                    <NavLink to="/">Home</NavLink>
+                    <NavLink to="/">Riders</NavLink>
                 </li>
                 <li>
-                    <NavLink to="/about">About</NavLink>
+                    <NavLink to="/teams">Teams</NavLink>
                 </li>
             </ul>
         </nav>
